@@ -20,3 +20,9 @@
     margin: 10px;
     background-color: #659DA1;
 }
+.col-4{
+    flex :4;
+    padding: 10px;
+    margin: 10px;
+    background-color: #659DA1;
+}
