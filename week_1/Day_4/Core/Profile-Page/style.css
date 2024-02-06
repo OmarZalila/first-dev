@@ -21,6 +21,7 @@
     align-items: center;
     justify-content: space-between;
     list-style-type: none;
+
 }
 .pre{
     width: 300px;
@@ -203,7 +204,8 @@
     flex-direction: column;
     justify-content:space-around;
 }
-.Adrie{
+
+.personne{
     display: flex;
     width: 110px;
     justify-content: space-between;
@@ -213,27 +215,7 @@
         border-radius: 50%;
     }
 }
-.Ane{
-        display: flex;
-        width: 95px;
-        justify-content: space-between;
-        align-items: center;
-        img {
-            border: 1px solid white;
-            border-radius: 50%;
-    }
-}
-.Alaynee{
-    display: flex;
-    width: 110px;
-    justify-content: space-between;
-    align-items: center;
-    img {
-        border: 1px solid white;
-        border-radius: 50%;
-    }
-}
-.Arry {
+.Personne {
     display: flex;
     width: 95px;
     justify-content: space-between;
