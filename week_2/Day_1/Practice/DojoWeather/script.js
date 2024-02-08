@@ -24,3 +24,7 @@ function convert(){
     x4.innerText="78°";
     y4.innerText="70°";
 }
+function chooseLunch(element) {
+    alert("You picked " + element.value);
+}
+
